@@ -1,6 +1,5 @@
 <img width="3780" height="1512" alt="Design sem nome (5)" src="https://github.com/user-attachments/assets/dc0c5f06-7348-41c4-a0d0-3c09a1c0cd9a" />
 
-## LANDING PAGE - DOCE BEE'S
 
 
 ## 📖 Sobre o projeto
